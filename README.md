@@ -7,6 +7,8 @@ Usage
 -----
 
 ```sh
+python3.7 -m venv .venv # the version of Python matters for Qt
+
 source .venv/bin/activate
 pip install -r requirements.txt
 
